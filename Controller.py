@@ -18,11 +18,12 @@ j = pyvjoy.VJoyDevice(1)
 # time.sleep(0.2);
 # j.reset_buttons()
 
-def playerinput(player, button, state):
+def playerinput(player, button, state, height):
     value = 0
-    if(int(state) < 250):
+    if(int(state) < (height/2)):
         value = 1
+        print(player, button, state)
     
-    j.set_button(int(button), value)
-    print(button, value)
+    pyvjoy.VJoyDevice(player).set_button(int(button), value)
+    # print(player, button, value)
     return;

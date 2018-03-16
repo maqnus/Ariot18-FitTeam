@@ -1,0 +1,6 @@
+{
+    "pink": { "lowerHSV": [140,94,50], "upperHSV": [179,255,255] },
+    "pink-original": { "lowerHSV": [105,122,0], "upperHSV": [180,255,255] },
+    "orange": { "lowerHSV": [0,200,32], "upperHSV": [12,255,255] },
+    "orange-original": { "lowerHSV": [0,193,42], "upperHSV": [180,255,255] }
+}

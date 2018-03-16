@@ -1,6 +1,8 @@
 import json
 import requests
 
+# guide http://www.ktskumar.com/2017/01/access-sharepoint-online-using-postman/
+
 class SharepointClient(object):
     """Sharepoint online client"""
 
