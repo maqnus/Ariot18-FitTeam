@@ -38,11 +38,11 @@ _By using the internet connected dumbells as controllers we can send signals to 
 
 ## Getting started
 
-Put the x86 version of vJoyInterface.dll inside the extracted folder. Rename folder to pyvjoy. 
-Copy the folder. Place it inside \Python\Python36-32\Lib\site-packages.
-Download the repository.
-Run Start.bat.
-In StepMania: select options - Config Key/Joy Mappings. Add Joy1 B1 and Joy1 B2 to left and right at the bottom by lifting the pink dumbbell up when inserting the new key.
+- Put the x86 version of vJoyInterface.dll inside the extracted folder. Rename folder to pyvjoy. 
+- Copy the folder. Place it inside \Python\Python36-32\Lib\site-packages.
+- Download the repository.
+- Run Start.bat.
+- In StepMania: select options - Config Key/Joy Mappings. Add Joy1 B1 and Joy1 B2 to left and right at the bottom by lifting the pink dumbbell up when inserting the new key.
 * You may want to edit the songs to not include the up and down arrows. Do this in the main menu Edit/Share option.
 
 
