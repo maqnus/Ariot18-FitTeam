@@ -10,7 +10,9 @@ Our project focuses on a modern IoT approach for your training routines. Whether
 
 _By using the internet connected dumbells as controllers we can send signals to any game (Stepmania for example, which is btw one of the worlds greatest games!) and this turns your regular workout into a lot of fun._
 
-[![IoTdevice](https://i.imgur.com/yRF6c1u.jpg) ![demo](https://media.giphy.com/media/jV4AAGFUmILhnfWWil/giphy.gif) ![Stepmania](https://media.giphy.com/media/SHdlF1DCQq0cE6uAzd/giphy.gif)  ](https://www.instagram.com/p/BgWK6kHFpLx)
+[![IoTdevice](https://i.imgur.com/yRF6c1u.jpg)](https://www.instagram.com/p/BgWK6kHFpLx)
+[![demo](https://media.giphy.com/media/jV4AAGFUmILhnfWWil/giphy.gif)](https://www.instagram.com/p/BgWK6kHFpLx)
+[![Stepmania](https://media.giphy.com/media/SHdlF1DCQq0cE6uAzd/giphy.gif)](https://www.instagram.com/p/BgWK6kHFpLx)
 
 > While you are gaming, we are collecting data from your workout, and present it using breathtaking graphical technology.
 
